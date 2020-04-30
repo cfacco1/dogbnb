@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to open my wonderfull program
 
-Things you may want to cover:
+* Clone and ZIP
 
-* Ruby version
+* Bundle install (especially for Faker)
 
-* System dependencies
+* $ rails db:seed
 
-* Configuration
+* $ rails console to test, test and test (COVID quote)
 
-* Database creation
+HAVE FUN
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Woof
+CF
